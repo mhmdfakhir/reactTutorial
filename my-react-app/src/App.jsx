@@ -1,12 +1,11 @@
 import "./App.css";
-import MyComponent from "./ObjectMyComponent";
+import MyComponentArray from "./MyComponentArray.jsx";
 
- 
 
 function App() {
   return (
     <>
-      <MyComponent></MyComponent>
+      <MyComponentArray></MyComponentArray>
     </>
   );
 }
