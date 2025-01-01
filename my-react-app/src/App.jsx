@@ -1,12 +1,10 @@
 import "./App.css";
-import MyComponentAO from "./done/MyComponentAO.jsx";
-import ToDoList from "./ToDoList.jsx";
-
+import EffectfulComponent from "./EffectfulComponent";
 
 function App() {
   return (
     <>
-      <ToDoList></ToDoList>
+      <EffectfulComponent />
     </>
   );
 }
