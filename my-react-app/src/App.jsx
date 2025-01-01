@@ -1,11 +1,11 @@
 import "./App.css";
-import MyComponentArray from "./MyComponentArray.jsx";
+import MyComponentAO from "./MyComponentAO.jsx";
 
 
 function App() {
   return (
     <>
-      <MyComponentArray></MyComponentArray>
+      <MyComponentAO />
     </>
   );
 }
