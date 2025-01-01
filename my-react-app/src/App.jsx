@@ -1,10 +1,10 @@
 import "./App.css";
-import EffectfulComponent from "./EffectfulComponent";
+import DigitalClock from "./DigitalClock";
 
 function App() {
   return (
     <>
-      <EffectfulComponent />
+      <DigitalClock />
     </>
   );
 }
